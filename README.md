@@ -1,3 +1,3 @@
 # nexus-studio
 
-# https://sefdi.github.io/nexus-studio/
+# https://sefdi.github.io/nexus-studio/ - сайт
